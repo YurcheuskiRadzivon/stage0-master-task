@@ -25,7 +25,7 @@ public class Application {
         //Conditions
         SeasonDeterminer.tellTheSeason(15);
         TriangleSidesValidator.validate(1,3,3);
-        DaysInMonth.printDays(2011, 2);
+        DaysInMonth.printDays(1700, 2);
         IntegerDivider.printCompletelyDivided(20, 3);
         CoordinatePane.printQuadrant(3, -1);
         BitwiseValuesSwap.swap(1,6);
